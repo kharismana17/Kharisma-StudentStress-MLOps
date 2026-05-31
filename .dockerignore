@@ -1,0 +1,8 @@
+venv/
+mlruns/
+artifacts/
+__pycache__/
+*.pkl
+*.out
+*.ipynb
+.git/

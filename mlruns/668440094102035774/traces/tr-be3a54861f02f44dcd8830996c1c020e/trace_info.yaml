@@ -1,0 +1,13 @@
+execution_duration_ms: 392
+request_preview: '{"query": "What''s the weather in San Francisco and should I bring
+  an umbrella today?"}'
+request_time: '2026-05-24T01:57:47.809Z'
+response_preview: '{"response": "The weather in San Francisco is currently 62 degrees
+  with partly cloudy skies. There''s some chance of rain today, but I''m not sure
+  exactly how much."}'
+state: OK
+trace_id: tr-be3a54861f02f44dcd8830996c1c020e
+trace_location:
+  mlflow_experiment:
+    experiment_id: '668440094102035774'
+  type: MLFLOW_EXPERIMENT

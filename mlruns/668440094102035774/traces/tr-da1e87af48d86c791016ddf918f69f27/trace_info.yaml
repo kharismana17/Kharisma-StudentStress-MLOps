@@ -1,0 +1,12 @@
+execution_duration_ms: 1391
+request_preview: '{"message": "How do I compare different retrieval configurations
+  systematically?", "turn": 3}'
+request_time: '2026-05-26T15:13:49.001Z'
+response_preview: '{"response": "You can run multiple experiments with different settings
+  and compare them in the MLflow UI."}'
+state: OK
+trace_id: tr-da1e87af48d86c791016ddf918f69f27
+trace_location:
+  mlflow_experiment:
+    experiment_id: '668440094102035774'
+  type: MLFLOW_EXPERIMENT

@@ -1,0 +1,12 @@
+execution_duration_ms: 558
+request_preview: '{"message": "I have a model logged in MLflow. How do I deploy it
+  as an API?", "turn": 1}'
+request_time: '2026-05-27T08:15:49.001Z'
+response_preview: '{"response": "You can use MLflow''s model serving. Register the
+  model and then serve it with the mlflow models serve command."}'
+state: OK
+trace_id: tr-ac4b7ee5ae08c340584fc0f87d0ef557
+trace_location:
+  mlflow_experiment:
+    experiment_id: '668440094102035774'
+  type: MLFLOW_EXPERIMENT

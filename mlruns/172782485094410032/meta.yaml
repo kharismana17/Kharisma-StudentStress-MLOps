@@ -1,0 +1,8 @@
+artifact_location: file:D:/dicoding/stres/Kharisma-StudentStress-MLOps/mlruns/172782485094410032
+creation_time: 1780139846817
+experiment_id: '172782485094410032'
+last_update_time: 1780139846817
+lifecycle_stage: active
+name: StressPrediction
+trace_location: null
+workspace: default

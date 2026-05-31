@@ -1,0 +1,14 @@
+artifact_uri: file:D:/dicoding/stres/Kharisma-StudentStress-MLOps/mlruns/172782485094410032/51f2eaff924343379662ef9818656e0c/artifacts
+end_time: 1780144983133
+entry_point_name: ''
+experiment_id: '172782485094410032'
+lifecycle_stage: active
+run_id: 51f2eaff924343379662ef9818656e0c
+run_name: inquisitive-hawk-399
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780144983007
+status: 4
+tags: []
+user_id: kharismana17
